@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**hr1729/hr1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hrithik Kale 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a android-native developer and competitive programmer
+
+
+##
+👩‍💻 I'm currently working on conduit App project  which you can see on my repository
+
+
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithikkale/)
+[![codeforces](https://img.shields.io/badge/codeforces-FFA500?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/hrithox_1729)
+
+## 🛠 Achievement
+ 
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=hrithox_1729&theme=1)
+
